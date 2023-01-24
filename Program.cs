@@ -9,6 +9,7 @@ Log.Logger = new LoggerConfiguration()
     .CreateLogger();
 
 Log.Information("Hello World!");
+Log.Information("Doing some maths");
 
 int a = 10, b = 0;
 
